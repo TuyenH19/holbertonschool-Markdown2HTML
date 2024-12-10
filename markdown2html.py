@@ -6,7 +6,8 @@ import os
 def main():
     """Main function to validate arguments and file existence."""
     if len(sys.argv) != 3:
-        print("Usage: ./markdown2html.py README.md README.html")
+        print("Usage: ./markdown2html.py README.md README.html",
+              file=sys.stderr)
         sys.exit(1)
 
     markdown_file = sys.argv[1]
