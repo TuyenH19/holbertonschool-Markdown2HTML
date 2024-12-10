@@ -1,4 +1,4 @@
-![alt text](https://ibb.co/6vXZ314)
+[![alt text](https://ibb.co/6vXZ314)](https://ibb.co/6vXZ314)
 
 ### holbertonschool-Markdown2HTML
 
