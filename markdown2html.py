@@ -2,8 +2,7 @@
 import sys
 import os
 
-
-def main():
+if __name__ == "__main__":
     """Main function to validate arguments and file existence."""
     if len(sys.argv) != 3:
         print("Usage: ./markdown2html.py README.md README.html",
@@ -18,7 +17,3 @@ def main():
         sys.exit(1)
 
     sys.exit(0)
-
-
-if __name__ == "__main__":
-    main()
