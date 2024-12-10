@@ -1,4 +1,4 @@
-[![alt text](https://ibb.co/6vXZ314)](https://ibb.co/6vXZ314)
+![Alt text](https://github.com/TuyenH19/holbertonschool-Markdown2HTML/blob/main/images/topic.png)
 
 ### holbertonschool-Markdown2HTML
 
@@ -26,7 +26,7 @@ Otherwise, print nothing and exit 0
 
 ## Task1 - Headings
 Improve the file by parsing Headings Markdown syntax for generating HTML
-![Alt text](https://ibb.co/QHX2vV9)
+![Alt text](https://github.com/TuyenH19/holbertonschool-Markdown2HTML/blob/main/images/task1.png)
 
 
 ## Task2 - Unordered listing
@@ -76,7 +76,7 @@ Syntax:
 
 ## Task5 - Bold and emphasis text
 Improve the file by parsing bold syntax for generating HTML
-![Alt text](https://ibb.co/PcjD71c)
+![Alt text](https://github.com/TuyenH19/holbertonschool-Markdown2HTML/blob/main/images/task5.png)
 
 ## Task6 - different syntax
-![Alt text](https://ibb.co/dtcts4p)
+![Alt text](https://github.com/TuyenH19/holbertonschool-Markdown2HTML/blob/main/images/task6.png)
